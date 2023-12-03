@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamic inference
-description:
+description: dynamic behavior in mixed models, trajectory inference, object grasping
 img: assets/img/dynamic_inference.png
 importance: 5
 category: active-inference

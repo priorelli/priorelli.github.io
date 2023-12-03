@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flexible intentions
-description:
+description: dynamic behavior, multisensory integration, object tracking
 img: assets/img/flexible_intentions.png
 importance: 1
 category: active-inference

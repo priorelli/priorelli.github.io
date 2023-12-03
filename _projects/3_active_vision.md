@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Active vision
-description:
+description: binocular depth estimation, target fixation, learning in goal-directed behavior
 img: assets/img/active_vision.png
 importance: 3
 category: active-inference

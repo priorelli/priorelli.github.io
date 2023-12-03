@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep inference
-description:
+description: kinematic inference in hierarchical models, intrinsic and extrinsic intentions, movements with multiple contraints, human kinematics, obstacle avoidance
 img: assets/img/deep_inference.png
 importance: 2
 category: active-inference

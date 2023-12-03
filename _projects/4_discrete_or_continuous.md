@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discrete or continuous?
-description:
+description: discrete and continuous comparison, fixed multi-step behavior, pick-and-place tasks
 img: assets/img/discrete_or_continuous.png
 importance: 4
 category: active-inference
