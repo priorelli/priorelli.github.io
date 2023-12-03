@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My latest projects about dynamic goal-directed behavior in active inference.
+description:
 nav: true
 nav_order: 2
 display_categories: [active-inference]
