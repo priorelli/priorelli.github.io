@@ -18,4 +18,4 @@ social: false  # includes social icons at the bottom of the page
 
 I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padua, Italy, working on computational neuroscience and machine learning.
 
-I am curious to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents. My current research is based on predictive coding, active inference, and Bayesian-oriented approaches.
+My goal is to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents. My current research is based on predictive coding, active inference, and Bayesian-oriented approaches.
