@@ -15,21 +15,10 @@ The code of the project can be found <a href="https://github.com/priorelli/deep-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_track_avoid.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="https://drive.google.com/file/d/1h0vgS82uHiQyOeb0MjRwl_phXcHwAJtq/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_circular.mp4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
-</div>
-<div class="caption">
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_maintain_orientation.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_octopus.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.html path="https://drive.google.com/file/d/1xB6R5UiduaWxfMtHEylh_PFrfD6DIxOw/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,10 +26,10 @@ The code of the project can be found <a href="https://github.com/priorelli/deep-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_karate_kid.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="https://drive.google.com/file/d/1fXenDRAh0b2UH54rXlfVsSquJuKbeNg2/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_matrix.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.html path="https://drive.google.com/file/d/1Bt__fBqLsJgaxMNAJNVLk2GsOp5r_58E/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +37,18 @@ The code of the project can be found <a href="https://github.com/priorelli/deep-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/2_learning.m4v" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="https://drive.google.com/file/d/1etiFSSxVwhx4FBRyTydalJ0UGc89rHGf/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://drive.google.com/file/d/1tOHnQRLt04zsMEUrMcOsEex990Z8mkdk/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://drive.google.com/file/d/1PJ8KTV1XUuHsDV6G4QtJX58-sqdiLJ32/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
