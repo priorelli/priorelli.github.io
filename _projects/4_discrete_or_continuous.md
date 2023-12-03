@@ -8,74 +8,40 @@ category: active-inference
 related_publications: Priorelli2023g
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p align="justify"><b>Abstract</b>: A tradeoff always exists when dealing with multi-step tasks. High-level processes can find the best sequence of actions to achieve goals in uncertain environments, but they are slow and require significant computational demand. Contrarily, lower-level processing allows reacting to environmental stimuli rapidly, but with limited capacity to determine optimal actions. Through reiteration of the same task, biological organisms find the optimal tradeoff: from primitive movements, composite actions gradually emerge by creating low-level task-specific neural structures. What are the underpinnings of such mechanisms? We adopted the Active Inference perspective casting behavior as prediction error minimization, and compared two hierarchical strategies on a pick-and-place task: a discrete-continuous model with planning capabilities and a continuous-only model with fixed transitions. We propose a way to express different motor learning phases in these terms, analyzing how discrete actions might be encoded into continuous representations. The study paves the way to understanding task-specialization mechanisms and how they can be adopted in intelligent agents.
+</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The code of the project can be found <a href="https://github.com/priorelli/">here</a>.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://drive.google.com/file/d/1-DkeTRzJl_WBdv01AbGBjoVs2r1gxjZj/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://drive.google.com/file/d/16TKGw6nu2ceCqmdWT9hXTFPgY99LZGG0/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://drive.google.com/file/d/1X6RP519SL7hXmKQCE7EIWByaLs72ICWT/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://drive.google.com/file/d/1gJCV5zzpOR2AtpIUtRTjvkoraFIrNMl6/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+#### HowTo
 
+<p align="justify">The simulation can be launched through main.py. either with the option "-m" for manual control, "-c" for the continuous model, "-d" for the mixed model, or "-a" for choosing the parameters from the console. If no option is specified, the continuous model will be launched. For the manual control simulation, the keys Z, X, A, S, LEFT, RIGHT, UP and DOWN can be used in order to move the joints of the arm, while the keys Q and W to open and close the hand.
+</p>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<p align="justify">More advanced parameters can be manually set from config.py.
+</p>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<p align="justify">Plots can be generated through plot.py, with the option "-v" for generating a video of the simulation.
+</p>

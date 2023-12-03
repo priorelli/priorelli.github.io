@@ -47,9 +47,7 @@ The code of the project can be found <a href="https://github.com/priorelli/deep-
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://drive.google.com/file/d/1PJ8KTV1XUuHsDV6G4QtJX58-sqdiLJ32/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
-    </div>
+    {% include video.html path="https://drive.google.com/file/d/1PJ8KTV1XUuHsDV6G4QtJX58-sqdiLJ32/view?usp=sharing" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
 </div>
