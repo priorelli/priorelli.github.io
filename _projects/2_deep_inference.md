@@ -46,6 +46,12 @@ The code of the project can be found <a href="https://github.com/priorelli/deep-
 <div class="caption">
 </div>
 
+<div class="row mt-3">
+    {% include video.html path="assets/video/2_learning.m4v" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+</div>
+<div class="caption">
+</div>
+
 #### HowTo
 
 <p align="justify">The simulation can be launched through main.py. either with the option "-m" for manual control, "-s" for the shallow model, "-d" for the deep hierarchical model, "-j" for the standard Jacobian control, or "-a" for choosing the parameters from the console. If no option is specified, the last option will be launched. For the manual control simulation, the keys Z, X, A, S, LEFT, RIGHT, UP and DOWN can be used in order to move the joints of the arm.
