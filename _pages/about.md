@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Cognitive Sciences and Technologies, National Research Council, Padova</a>
+subtitle: # <a href='#'>Institute of Cognitive Sciences and Technologies, National Research Council, Padova</a>
 
 profile:
   align: right
@@ -18,6 +18,4 @@ social: false  # includes social icons at the bottom of the page
 
 I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padua, Italy, working on computational neuroscience and machine learning.
 
-My main interests lie at the intersection of artificial intelligence and neuroscience: I am curious to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents.
-
-My current research is based on predictive coding, active inference, and Bayesian-oriented approaches. 
+I am curious to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents. My current research is based on predictive coding, active inference, and Bayesian-oriented approaches.
