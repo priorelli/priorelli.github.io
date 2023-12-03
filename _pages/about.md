@@ -23,6 +23,6 @@ My interests lie at the intersection of theoretical neuroscience and machine lea
 My current research is based on predictive coding, active inference, and Bayesian-oriented approaches. My <a href='https://priorelli.github.io/projects/'>latest projects</a> contain some proposals on dynamic goal-directed behavior in active inference.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0"><img src="assets/img/karate_kid.gif"></img></div>
-    <div class="col-sm mt-3 mt-md-0"><img src="assets/img/matrix.gif"></img></div>
+    <div class="col-sm mt-3 mt-md-0"><img src="assets/img/karate_kid.gif" width="128" height="128"></div>
+    <div class="col-sm mt-3 mt-md-0"><img src="assets/img/matrix.gif" width="128" height="128"></div>
 </div>
