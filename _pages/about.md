@@ -20,4 +20,4 @@ I am a research fellow at the Institute of Cognitive Sciences and Technologies o
 
 My interests lie at the intersection of theoretical neuroscience and machine learning. My goal is to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents.
 
-My current research is based on predictive coding, active inference, and Bayesian-oriented approaches.
+My current research is based on predictive coding, active inference, and Bayesian-oriented approaches. My <a href='https://priorelli.github.io/projects/'>latest projects</a> contain several proposals on dynamic goal-directed behavior in active inference.
