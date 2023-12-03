@@ -15,10 +15,10 @@ The code of the project can be found <a href="https://github.com/priorelli/PACE"
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://drive.google.com/file/d/1fkqXk331rCfCFNYvpcOWtg6wt9J6GtV_/view?usp=drive_link" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://drive.google.com/file/d/1fkqXk331rCfCFNYvpcOWtg6wt9J6GtV_" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://drive.google.com/file/d/158LhTKaj77d-KWgZXaM8J3Mce4dIVx3J/view?usp=drive_link" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://drive.google.com/file/d/158LhTKaj77d-KWgZXaM8J3Mce4dIVx3J" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
