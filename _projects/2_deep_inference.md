@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Deep kinematic inference
+title: Deep inference
 description:
-img: assets/img/deep_kinematic_inference.png
+img: assets/img/deep_inference.png
 importance: 2
 category: active-inference
 related_publications: Priorelli2023e, Priorelli2023d
