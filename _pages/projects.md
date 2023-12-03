@@ -5,7 +5,7 @@ permalink: /projects/
 description: My latest projects about dynamic goal-directed behavior in active inference.
 nav: true
 nav_order: 2
-display_categories: [active inference]
+display_categories: [active-inference]
 horizontal: false
 ---
 

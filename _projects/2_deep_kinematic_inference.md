@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Deep kinematic inference
+description:
+img: assets/img/deep_kinematic_inference.png
+importance: 2
+category: active-inference
+related_publications: Priorelli2023e, Priorelli2023d
 ---
 
 Every project has a beautiful feature showcase page.

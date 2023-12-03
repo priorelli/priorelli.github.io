@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+title: Dynamic inference
+description:
+img: assets/img/dynamic_inference.png
+importance: 5
+category: active-inference
+related_publications: Priorelli2023h
 ---
 
 Every project has a beautiful feature showcase page.
