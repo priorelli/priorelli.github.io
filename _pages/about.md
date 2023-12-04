@@ -16,11 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modeling and decoding of neural data.
+<p align="justify">I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modeling and decoding of neural data.
+</p>
 
-My interests lie at the intersection of theoretical neuroscience and machine learning. My goal is to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents.
+<p align="justify">My interests lie at the intersection of theoretical neuroscience and machine learning. My goal is to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents.
+</p>
 
-My current research is based on predictive coding, active inference, and Bayesian-oriented approaches. My <a href='https://priorelli.github.io/projects/'>latest projects</a> contain some proposals on dynamic goal-directed behavior in active inference.
+<p align="justify">My current research is based on predictive coding, active inference, and Bayesian-oriented approaches. My <a href='https://priorelli.github.io/projects/'>latest projects</a> contain some proposals on dynamic goal-directed behavior in active inference.
+</p>
 
 <div class="row mt-3" style="margin-bottom: 20px;">
     <div class="col-sm mt-3 mt-md-0"><img src="assets/img/karate_kid.gif" width="213" height="160"></div>
