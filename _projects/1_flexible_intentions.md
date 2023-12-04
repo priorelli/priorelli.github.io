@@ -44,3 +44,5 @@ More advanced parameters can be manually set from config.py. <br/><br/>
 Plots can be generated through plot.py, either with the option "-a" for the derivatives of free energy, "-d" for dynamics, "-f" for the final positions of the hand, "-g" for the gradients, "-p" for action and perception, "-s" for the score plots, or "-v" for generating a video of the simulation.
 
 </div>
+
+<br/><br/>
