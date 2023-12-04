@@ -22,7 +22,9 @@ My interests lie at the intersection of theoretical neuroscience and machine lea
 
 My current research is based on predictive coding, active inference, and Bayesian-oriented approaches. My <a href='https://priorelli.github.io/projects/'>latest projects</a> contain some proposals on dynamic goal-directed behavior in active inference.
 
-<div class="row mt-3" style="margin-bottom: 20px;">
+These are Daniel from <i>The Karate Kid</i> and Neo from <i>The Matrix</i>:
+
+<div class="row mt-3" style="margin-bottom: 3%;">
     <div class="col-sm mt-3 mt-md-0"><img src="assets/img/karate_kid.gif" width="213" height="160"></div>
     <div class="col-sm mt-3 mt-md-0"><img src="assets/img/matrix.gif" width="213" height="160"></div>
 </div>
