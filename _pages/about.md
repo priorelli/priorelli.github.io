@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modeling and decoding of neural data.
+I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modeling and supervised by <a href="https://www.istc.cnr.it/en/people/ivilin-peev-stoianov">Ivilin Stoianov</a>.
 
 My interests lie at the intersection of theoretical neuroscience and machine learning. My goal is to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents.
 
