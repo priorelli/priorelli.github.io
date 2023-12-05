@@ -53,4 +53,3 @@ Useful trajectories computed during the simulations are stored through the class
 
 Note that all the variables are normalized between 0 and 1 to ensure that every contribution to the belief updates has the same magnitude.
 
-<br/>
