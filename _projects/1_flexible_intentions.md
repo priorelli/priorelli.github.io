@@ -24,6 +24,8 @@ The dataset for the VAE is generated through the option `-g`, while `-t` will ru
 
 Plots can be generated through *plot.py*, either with the option `-a` for the free energy derivatives, `-d` for the belief trajectories, `-f` for the final positions of the hand, `-g` for the VAE gradients, `-p` for angles and velocities, `-s` for the scores, or `-v` for generating a video of the simulation.
 
+The folder *reference/video/* contains a few videos about target tracking, movements with or without visual input, and dynamic onset policy.
+
 ### Advanced configuration
 
 More advanced parameters can be manually set from *config.py*. Both the target positions and the home button are stored in joint angle coordinates, the former in the list `targets` and the latter by the variable `home`. Custom log names are set with the variable `log_name`.
@@ -39,7 +41,7 @@ The variable `phases` chooses the movement onset policy of the agent (`immediate
 
 The arm configuration is defined through the dictionary `joints`. The value `link` specifies the joint to which the new one is attached; `angle` encodes the starting value of the joint; `limit` defines the min and max angle limits.
 
-### Active inference simulation
+### Active inference
 
 The active inference simulation involves the scripts *simulation/inference.py* and *simulation/agent.py*. The former contains a subclass of `Window` in *environment/window.py*, which is in turn a subclass `pyglet.window.Window`. The only overriden function is `update`, which defines the instructions to run in a single cycle. Specifically, the subclass `Inference` initialize the agent, the sequence of target positions, and the log; during each update, it retrieves proprioceptive and visual observations through functions defined in *environment/window.py*, calls the function `inference_step` of *simulation/agent.py*, and finally moves the arm and the target.
 
