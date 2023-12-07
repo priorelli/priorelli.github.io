@@ -19,7 +19,10 @@ The code can be found [here](https://github.com/priorelli/active-vision).
 ## Simulations
 
 <div class="row mt-3">
-        {% include video.html path="https://youtube.com/shorts/qcxzZHjZ0JI?feature=share" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        <!---{% include video.html path="https://youtube.com/shorts/qcxzZHjZ0JI?feature=share" class="img-fluid rounded z-depth-1" %}-->
+        {% include video.html path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
 </div>
