@@ -16,14 +16,14 @@ This is the project related to the paper [Slow but flexible or fast but rigid? D
 
 The code can be found [here](https://github.com/priorelli/).
 
-## Simulations
+## Video simulations
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/GQe0VDaBmi4" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/GQe0VDaBmi4" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/ErXKjcJNlXE" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/ErXKjcJNlXE" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,10 +31,10 @@ The code can be found [here](https://github.com/priorelli/).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/VzZdhskzZQQ" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/VzZdhskzZQQ" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/utjDsISNkp8" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/utjDsISNkp8" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

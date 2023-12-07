@@ -16,11 +16,11 @@ This is the project related to the paper [Dynamic Inference by Model Reduction](
 
 The code can be found [here](https://github.com/priorelli/).
 
-## Simulations
+## Video simulations
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/vZXT6IHrIAU" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/vZXT6IHrIAU" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="" class="img-fluid rounded z-depth-1" %}

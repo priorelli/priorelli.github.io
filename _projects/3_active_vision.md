@@ -16,12 +16,14 @@ This is the project related to the paper [Active vision in binocular depth estim
 
 The code can be found [here](https://github.com/priorelli/active-vision).
 
-## Simulations
+## Video simulations
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <!---{% include video.html path="https://youtube.com/shorts/qcxzZHjZ0JI?feature=share" class="img-fluid rounded z-depth-1" %}-->
-        {% include video.html path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/qcxzZHjZ0JI" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
