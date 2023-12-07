@@ -20,7 +20,7 @@ The code can be found [here](https://github.com/priorelli/deep-kinematic-inferen
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtube.com/embed/ZdVVoviCZcA" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/ZdVVoviCZcA" class="img-fluid rounded z-depth-1" autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://youtube.com/embed/U4pvpnHQ37g" class="img-fluid rounded z-depth-1" %}
