@@ -12,7 +12,9 @@ related_publications: Priorelli2023a, Priorelli2023b
   <img src="/assets/img/flexible_intentions.png">
 </p>
 
-This is the project related to the paper [Flexible Intentions: An Active Inference Theory](https://www.frontiersin.org/articles/10.3389/fncom.2023.1128694/full). It contains a proposal about encoding environmental entities (e.g., a target to reach or a previously memorized home button) and realizing dynamic goal-directed behavior such as object tracking, and some analyses on multisensory integration for movements. The paper [Intention Modulation for Multi-step Tasks in Continuous Time Active Inference](https://link.springer.com/chapter/10.1007/978-3-031-28719-0_19) extends this model by introducing a fixed multi-step behavior (e.g., reaching multiple target positions in sequence). The code can be found [here](https://github.com/priorelli/PACE).
+This is the project related to the paper [Flexible Intentions: An Active Inference Theory](https://www.frontiersin.org/articles/10.3389/fncom.2023.1128694/full). It contains a proposal about encoding environmental entities (e.g., a target to reach or a previously memorized home button) and realizing dynamic goal-directed behavior such as object tracking, and some analyses on multisensory integration for movements. The paper [Intention Modulation for Multi-step Tasks in Continuous Time Active Inference](https://link.springer.com/chapter/10.1007/978-3-031-28719-0_19) extends this model by introducing a fixed multi-step behavior (e.g., reaching multiple target positions in sequence).
+
+The code can be found [here](https://github.com/priorelli/PACE).
 
 ## HowTo
 
@@ -43,7 +45,7 @@ The variable `phases` chooses the movement onset policy of the agent (`immediate
 
 The arm configuration is defined through the dictionary `joints`. The value `link` specifies the joint to which the new one is attached; `angle` encodes the starting value of the joint; `limit` defines the min and max angle limits.
 
-### Active inference
+### Agent
 
 The active inference simulation involves the scripts *simulation/inference.py* and *simulation/agent.py*. The former contains a subclass of `Window` in *environment/window.py*, which is in turn a subclass `pyglet.window.Window`. The only overriden function is `update`, which defines the instructions to run in a single cycle. Specifically, the subclass `Inference` initializes the agent and the sequence of target positions; during each update, it retrieves proprioceptive and visual observations through functions defined in *environment/window.py*, calls the function `inference_step` of *simulation/agent.py*, and finally moves the arm and the target.
 
