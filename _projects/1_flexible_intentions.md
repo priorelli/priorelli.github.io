@@ -16,6 +16,19 @@ This is the project related to the paper [Flexible Intentions: An Active Inferen
 
 The code can be found [here](https://github.com/priorelli/PACE).
 
+## Simulations
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtube.com/shorts/k2QmjXVhoog?feature=share" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtube.com/shorts/OZvJIzBAMQk?feature=share" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
 ## HowTo
 
 ### Start the simulation

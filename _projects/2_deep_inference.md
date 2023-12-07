@@ -16,6 +16,47 @@ This is the project related to the paper [Deep kinematic inference affords effic
 
 The code can be found [here](https://github.com/priorelli/deep-kinematic-inference).
 
+## Simulations
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/ZdVVoviCZcA" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/U4pvpnHQ37g" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/6fDP4A-HAkc" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/8NqP-q1CHJ4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/p6KRFFCmarg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtu.be/zqP8_WYqhBM" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<div class="row mt-3">
+        {% include video.html path="https://youtu.be/AbMZrZuBbLY" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+</div>
+
 ## HowTo
 
 ### Start the simulation
