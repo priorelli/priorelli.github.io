@@ -14,7 +14,7 @@ related_publications: Priorelli2023g
 
 This is the project related to the paper [Slow but flexible or fast but rigid? Discrete and continuous processes compared](https://www.biorxiv.org/content/10.1101/2023.08.20.554008v1.abstract).
 
-The code can be found [here](https://github.com/priorelli/).
+The code will be available soon.
 
 ## Video simulations
 

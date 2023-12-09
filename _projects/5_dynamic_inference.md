@@ -14,7 +14,7 @@ related_publications: Priorelli2023h
 
 This is the project related to the paper [Dynamic Inference by Model Reduction](https://www.biorxiv.org/content/10.1101/2023.09.10.557043.abstract).
 
-The code can be found [here](https://github.com/priorelli/).
+The code will be available soon.
 
 ## Video simulations
 
