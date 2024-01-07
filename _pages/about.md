@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modeling and supervised by <a href="https://www.istc.cnr.it/en/people/ivilin-peev-stoianov">Ivilin Stoianov</a>.
+I am a research fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modeling and supervised by <a href="https://www.istc.cnr.it/en/people/ivilin-peev-stoianov">Ivilin Stoianov</a>. My work is supported by the <a href="https://www.istc.cnr.it/it/content/maia-multifunctional-adaptive-and-interactive-ai-system-acting-multiple-contexts">MAIA project</a>, under the European Horizon 2020 Programme for Research and Innovation; and by the Italian <a href="https://www.istc.cnr.it/it/content/performing-actions-changing-environment-pace">PACE project</a>.
 
 My interests lie at the intersection of theoretical neuroscience and machine learning. My goal is to understand how cognition emerges from neural structures and how it can be replicated to build intelligent agents.
 
