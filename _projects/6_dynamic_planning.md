@@ -3,9 +3,9 @@ layout: page
 title: Dynamic planning
 description: flexible tool use, hierarchical hybrid models
 img: assets/img/dynamic_planning.png
-importance: 5
+importance: 6
 category: active-inference
-related_publications: Priorelli2023h
+related_publications: Priorelli2024a
 ---
 
 <p align="center">
