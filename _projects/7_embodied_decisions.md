@@ -20,10 +20,21 @@ The code will be available soon.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtube.com/embed/KSc8Oj_54sk" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/AHHJXP3datk" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/WXPJ0a2PWFQ" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtube.com/embed/7PiHSQYQ9u0" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://youtube.com/embed/gE3-Evc4scY" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
