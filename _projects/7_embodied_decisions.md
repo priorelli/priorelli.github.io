@@ -12,7 +12,8 @@ related_publications: Priorelli2024c
   <img src="/assets/img/embodied_decisions.png">
 </p>
 
-This is the project related to the papers [Embodied decisions as active inference](https://doi.org/10.1101/2024.05.28.596181).
+This is the project related to the papers [Embodied decisions as active inference](https://doi.org/10.1101/2024.05.28.596181) and [Learning and embodied decisions in active inference
+](https://www.biorxiv.org/content/10.1101/2024.08.18.608439v1).
 
 The code will be available soon.
 
