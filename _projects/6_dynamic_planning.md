@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamic planning
-description: flexible tool use, hierarchical hybrid models
+description: flexible tool use, deep hybrid models
 img: assets/img/dynamic_planning.png
 importance: 6
 category: active-inference
