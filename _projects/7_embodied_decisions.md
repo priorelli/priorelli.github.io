@@ -5,7 +5,7 @@ description: flanker task, motor inference, urgency modulation, habit learning
 img: assets/img/embodied_decisions.png
 importance: 7
 category: active-inference
-related_publications: Priorelli2024c
+related_publications: Priorelli2024c,Priorelli2024d
 ---
 
 <p align="center">
