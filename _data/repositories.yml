@@ -2,7 +2,8 @@ github_users:
   - priorelli
 
 github_repos:
-  - priorelli/PACE
+  - priorelli/dynamic-planning
   - priorelli/deep-kinematic-inference
   - priorelli/active-vision
+  - priorelli/PACE
   - priorelli/discrete-continuous
