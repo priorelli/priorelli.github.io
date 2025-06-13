@@ -23,7 +23,7 @@ The code can be found [here](https://github.com/priorelli/dynamic-planning).
         {% include video.html path="https://youtube.com/embed/KSc8Oj_54sk" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/NwGmHxEPx_M" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

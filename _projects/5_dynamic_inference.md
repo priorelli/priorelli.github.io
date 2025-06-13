@@ -14,16 +14,16 @@ related_publications: Priorelli2023h
 
 This is the project related to the paper [Dynamic Inference by Model Reduction](https://www.biorxiv.org/content/10.1101/2023.09.10.557043.abstract).
 
-The code will be available soon.
+The code can be found [here](https://github.com/priorelli/dynamic-inference).
 
 ## Video simulations
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtube.com/embed/vZXT6IHrIAU" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/e4KaS1BC-Ds" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtube.com/embed/CxjVjGI97MY" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
